@@ -1,0 +1,21 @@
+Circuit: * C:\Users\jakea\OneDrive\Documents\Dekatron\Dekatron\Models\doubler_555.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Apr  9 13:49:20 2020
+Total elapsed time: 0.354 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 70056
+traniter = 70047
+tranpoints = 15623
+accept = 11962
+rejected = 3661
+matrix size = 18
+fillins = 0
+solver = Normal
+Matrix Compiler1: 672 bytes object code size  0.2/0.2/[0.1]
+Matrix Compiler2: off  [0.2]/0.3/0.3
+

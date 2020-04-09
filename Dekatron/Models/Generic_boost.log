@@ -1,0 +1,23 @@
+Circuit: * C:\Users\jakea\OneDrive\Documents\Dekatron\Dekatron\Models\Generic_boost.asc
+
+Limiting rise time of source v1 to 1e-06
+Limiting fall time of source v1 to 1e-06
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Apr  9 13:49:12 2020
+Total elapsed time: 0.552 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 149910
+traniter = 149900
+tranpoints = 39259
+accept = 27437
+rejected = 11822
+matrix size = 13
+fillins = 0
+solver = Normal
+Matrix Compiler1: 754 bytes object code size  0.2/0.2/[0.1]
+Matrix Compiler2: off  [0.2]/0.3/0.3
+
