@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Dekatron-rescue)(type Legacy)(uri ${KIPRJMOD}/Dekatron-rescue.lib)(options "")(descr ""))
+)
